@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "input_documents": [
+      "document.pdf"
+    ],
+    "persona": "AI Research Scientist",
+    "job_to_be_done": "Survey state-of-the-art methods for LLM fine-tuning",
+    "processing_timestamp": "2025-07-27T14:49:05.640555"
+  },
+  "extracted_sections": [],
+  "subsection_analysis": []
+}
