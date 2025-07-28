@@ -54,3 +54,10 @@ docker run --rm \
   --network none \
   adobe_1b_solution
 ```
+
+## 🛠️ Tech Used
+
+- Python 3.9
+- PyMuPDF for PDF parsing
+- json for data handling
+- (Add any NLP libraries used if applicable)
